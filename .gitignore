@@ -16,6 +16,4 @@ __pycache__/
 .idea/
 
 # LARGE FILE WARNING:
-# If similarity.pkl is over 100MB, uncomment the line below
-# by removing the # symbol.
-similarity.pkl
+#similarity.pkl
