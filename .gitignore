@@ -1,0 +1,21 @@
+# Ignore the secret API key
+.env
+
+# Ignore the virtual environment folder
+ml_env/
+venv/
+env/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+.idea/
+
+# LARGE FILE WARNING:
+# If similarity.pkl is over 100MB, uncomment the line below
+# by removing the # symbol.
+similarity.pkl
